@@ -19077,7 +19077,11 @@ exports[`ConfigProvider components Pagination configProvider 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19095,8 +19099,11 @@ exports[`ConfigProvider components Pagination configProvider 1`] = `
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19219,7 +19226,11 @@ exports[`ConfigProvider components Pagination configProvider 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19237,8 +19248,11 @@ exports[`ConfigProvider components Pagination configProvider 1`] = `
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19366,7 +19380,11 @@ exports[`ConfigProvider components Pagination configProvider componentDisabled 1
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-disabled config-select-show-search"
+=======
+        class="config-select config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-disabled"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19385,8 +19403,11 @@ exports[`ConfigProvider components Pagination configProvider componentDisabled 1
               class="config-select-selection-search-input"
               disabled=""
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19509,7 +19530,11 @@ exports[`ConfigProvider components Pagination configProvider componentDisabled 1
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-disabled config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-disabled"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19528,8 +19553,11 @@ exports[`ConfigProvider components Pagination configProvider componentDisabled 1
               class="config-select-selection-search-input"
               disabled=""
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19657,7 +19685,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize large
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19675,8 +19707,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize large
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19799,7 +19834,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize large
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19817,8 +19856,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize large
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -19946,7 +19988,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize middl
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -19964,8 +20010,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize middl
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20088,7 +20137,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize middl
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -20106,8 +20159,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize middl
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20235,7 +20291,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize small
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -20253,8 +20313,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize small
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20377,7 +20440,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize small
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="config-select config-select-sm config-select-outlined config-pagination-options-size-changer config-select-single config-select-show-arrow config-select-show-search"
+=======
+        class="config-select config-select-sm config-pagination-options-size-changer config-select-single config-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="config-select-selector"
@@ -20395,8 +20462,11 @@ exports[`ConfigProvider components Pagination configProvider componentSize small
               autocomplete="off"
               class="config-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20524,7 +20594,11 @@ exports[`ConfigProvider components Pagination normal 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="ant-select ant-select-outlined ant-pagination-options-size-changer ant-select-single ant-select-show-arrow ant-select-show-search"
+=======
+        class="ant-select ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="ant-select-selector"
@@ -20542,8 +20616,11 @@ exports[`ConfigProvider components Pagination normal 1`] = `
               autocomplete="off"
               class="ant-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20666,7 +20743,11 @@ exports[`ConfigProvider components Pagination normal 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="ant-select ant-select-sm ant-select-outlined ant-pagination-options-size-changer ant-select-single ant-select-show-arrow ant-select-show-search"
+=======
+        class="ant-select ant-select-sm ant-pagination-options-size-changer ant-select-single ant-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="ant-select-selector"
@@ -20684,8 +20765,11 @@ exports[`ConfigProvider components Pagination normal 1`] = `
               autocomplete="off"
               class="ant-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20813,7 +20897,11 @@ exports[`ConfigProvider components Pagination prefixCls 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="ant-select ant-select-outlined prefix-Pagination-options-size-changer ant-select-single ant-select-show-arrow ant-select-show-search"
+=======
+        class="ant-select prefix-Pagination-options-size-changer ant-select-single ant-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="ant-select-selector"
@@ -20831,8 +20919,11 @@ exports[`ConfigProvider components Pagination prefixCls 1`] = `
               autocomplete="off"
               class="ant-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
@@ -20955,7 +21046,11 @@ exports[`ConfigProvider components Pagination prefixCls 1`] = `
     >
       <div
         aria-label="Page Size"
+<<<<<<< HEAD
         class="ant-select ant-select-sm ant-select-outlined prefix-Pagination-options-size-changer ant-select-single ant-select-show-arrow ant-select-show-search"
+=======
+        class="ant-select ant-select-sm prefix-Pagination-options-size-changer ant-select-single ant-select-show-arrow"
+>>>>>>> parent of 8fb97df92 (feat: Pagination size change select component is searchable (#42608))
       >
         <div
           class="ant-select-selector"
@@ -20973,8 +21068,11 @@ exports[`ConfigProvider components Pagination prefixCls 1`] = `
               autocomplete="off"
               class="ant-select-selection-search-input"
               id="rc_select_TEST_OR_SSR"
+              readonly=""
               role="combobox"
+              style="opacity: 0;"
               type="search"
+              unselectable="on"
               value=""
             />
           </span>
